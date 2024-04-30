@@ -2923,7 +2923,7 @@ body.rtl .elementor-4491 .elementor-element.elementor-element-2a379679 {
 .elementor-4491 .elementor-element.elementor-element-a0e5067 .elementskit-accordion>.elementskit-card.active {
     border-style: solid;
     border-width: 1px 1px 1px 1px;
-    border-color: #F26A2F;
+    border-color: #341C94;
     border-radius: 10px 10px 10px 10px;
 }
 
@@ -3008,9 +3008,10 @@ body.rtl .elementor-4491 .elementor-element.elementor-element-2a379679 {
     --margin-inline-end: 0px;
 }
 
-.elementor-4491 .elementor-element.elementor-element-710c4a70:not(.elementor-motion-effects-element-type-background),
+.elementor-4491 .elementor-element.elementor-element-710c4a70
 .elementor-4491 .elementor-element.elementor-element-710c4a70>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-image: url("https://zoople.in/wp-content/uploads/2024/02/wepik-export-20231007084936GSM5-1.png");
+    background-image: none !important;
     background-position: bottom right;
     background-repeat: no-repeat;
     background-size: auto;
@@ -3456,11 +3457,24 @@ body.rtl .elementor-4491 .elementor-element.elementor-element-2a379679 {
 /* Start custom CSS for text-editor, class: .elementor-element-3388eda9 */
 
 .s_text {
-    background: -webkit-linear-gradient(#F26A2F, #E50D40);
+    background: -webkit-linear-gradient(#3c2ff2, #E50D40);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-decoration: underline;
     font-weight: 500;
 }
 
+.elementor-4491 .elementor-element.elementor-element-a0e5067 .elementskit-accordion > .elementskit-card.active {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #341C94 !important;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-element.elementor-element-158fc55.elementor-position-top .elementor-element.elementor-element-a0e5067 .elementskit-accordion > .elementskit-card.active {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #341C94 !important;
+    border-radius: 10px 10px 10px 10px;
+}
 /* End custom CSS */
