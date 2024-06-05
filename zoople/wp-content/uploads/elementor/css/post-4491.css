@@ -1823,6 +1823,8 @@ body.rtl .elementor-4491 .elementor-element.elementor-element-2a379679 {
 .elementor-4491 .elementor-element.elementor-element-1d416cda .elementor-heading-title {
     color: #0A0A0A;
     font-family: "Manrope", Sans-serif;
+    margin-bottom: 2rem; 
+    margin-left: 2rem;
     font-size: 40px;
     font-weight: 700;
 }
